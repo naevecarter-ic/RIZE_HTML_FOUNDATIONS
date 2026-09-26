@@ -1,8 +1,17 @@
 header{
-    background-color: 0060FF;
+    background-color: #0060FF;
     text-align: center;
 }
 
 h1{
     text-align: center;
 }
+
+body{
+    background-color: #0060FF;
+}
+
+*{
+    font-family: sans-serif;
+}
+
