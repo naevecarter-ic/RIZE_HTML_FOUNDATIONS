@@ -14,6 +14,10 @@ h1{
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
 body{
     background-color: #0060FF;
 }
@@ -24,5 +28,28 @@ p{
 
 *{
     font-family: Arial;
+}
+
+#agent_roles ul{
+    list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+}
+
+#gamemodes ol{
+    list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 50%;
+  border-radius: 8px;
+  display: block;
+  margin: auto;
 }
 
