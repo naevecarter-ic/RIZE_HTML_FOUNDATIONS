@@ -4,6 +4,12 @@
     font-family: Arial;
 }
 
+#second_page_header{
+    background-color: #0060FF;
+    text-align: center;
+    font-family: Arial;
+}
+
 .teams{
     text-align: center;
     color:darkblue;
