@@ -12,15 +12,17 @@
 
 .teams{
     text-align: center;
-    color:darkblue;
+    color: white;
     font-family: Arial;
 }
 
 h1{
     text-align: center;
+    color: white;
 }
 
 h2{
+    color: white;
     text-align: center;
 }
 
@@ -30,10 +32,26 @@ body{
 
 p{
     text-align: center;
+    color: white;
 }
 
 *{
     font-family: Arial;
+}
+
+#link{
+    text-align: center;
+    color: white;
+}
+
+#teams ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+    color: white;
 }
 
 #agent_roles ul{
@@ -42,6 +60,7 @@ p{
   justify-content: space-around;
   padding: 0;
   margin: 0;
+  color: white;
 }
 
 #gamemodes ol{
@@ -50,6 +69,7 @@ p{
   justify-content: space-around;
   padding: 0;
   margin: 0;
+  color: white;
 }
 
 img {
